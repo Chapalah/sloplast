@@ -605,7 +605,7 @@ footer a{
 }
 
 .block-titles {
-    position: fixed;
+    position: absolute;
     width: 100vw;
     right: 0;
     bottom: 0;
